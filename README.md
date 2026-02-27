@@ -2,7 +2,7 @@
 full stack - to do list app
 https://github.com/Deekshitha725/Task-manager.git
 
-ml- fraud detection
+ml- cost of living
 
 
 fullstack and ml- chatbot for mental health
