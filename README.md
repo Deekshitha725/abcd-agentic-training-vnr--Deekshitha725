@@ -3,6 +3,7 @@ full stack - TaskManager
 https://github.com/Deekshitha725/Task-manager.git
 
 ml- cost of living
+https://github.com/Deekshitha725/cost-of-living.git
 
 fullstack and ml- chatbot for mental health
 
